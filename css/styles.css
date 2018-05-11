@@ -1,9 +1,14 @@
 h1{
-background-color:#05419C;
-font size:100pxl;
+background-image: url(/home/berlyne/Documents/PigDice/dice.gif);
+font-size: 70px;
 text-align:center;
-
-
-
-
+padding-top: 85px;
+padding-bottom: 85px;
+margin:0px;
+}
+.pig{
+  color: white;
+}
+#results{
+  text-align: center;
 }
